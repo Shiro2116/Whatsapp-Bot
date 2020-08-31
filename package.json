@@ -1,0 +1,22 @@
+{
+  "name": "node-wa-sticker-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^1.9.105",
+    "axios": "^0.19.2",
+    "libphonenumber-js": "^1.7.56",
+    "moment-timezone": "^0.5.31",
+    "video-url-link": "^0.1.4",
+    "whatsapp-web.js": "^1.8.1"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
