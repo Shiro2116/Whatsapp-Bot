@@ -10,7 +10,7 @@ _Random Quotes Bahasa Indonesia 🔖_
 _Random Wallpaper 🌈_
 *#zodiak(spasi)nama(spasi)tgl*
 _Cek Zodiak Kamu 🐟_
-_(contoh: #zodiak dandi 20-01-2005)_
+_(contoh: #zodiak hendi 29-01-1998)_
 *#kontak*
 _Kontak Owner_
 *#rules*
